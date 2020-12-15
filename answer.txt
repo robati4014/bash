@@ -1,0 +1,18 @@
+answers
+
+1.
+if we would do it menually, each link would take us 3 minuts. to search the links in the main site would take us anathrt 3 minuts. we have aprocsmatly 60 articals.
+totaly we get 3*60+3=183 minots vs 40 sec automatically.
+
+2.
+we see thet the program is sagnificat fast then the manual and probably without error. we can use this idea to search names and ather things in big data.
+for exemple, in supre market, we get orders from Customersand using this idea to know how mach Products we need 
+
+
+3.
+We had to multiply the result of the search time by the number of tests.
+This can be done automatically by the watch command when the time interval is 3600 and every time interval the search process is performed. 
+[watch -n 3600]
+To do the search efficiently with articles that have already been read, we will save a file with the list of links to articles to which links of new articles will be added each time, and after exporting the arrangement of the new search we will compare its list of links to the permanent list. New to the permanent list of links).
+
+Notice that the links are alredy sorted, so the search will be efficiant.
